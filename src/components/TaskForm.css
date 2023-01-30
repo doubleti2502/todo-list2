@@ -1,0 +1,20 @@
+.form {
+    background: #cfedf0;
+    border-radius: 10px;
+    padding: 0 20px 20px;
+}
+
+.form-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #6de7f2;
+    margin: 0 -20px 20px -20px;
+    padding: 0 20px;
+    border-radius: 10px 10px 0 0;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
